@@ -1,2 +1,2 @@
 # IMDB-rating-summary-LLM-GenAI
-IMDB Summarize movie rating and recommendation movies based on sentiments
+Lightweight serverless personalized IMDB Movie recommendations based on ratings and other parameters.
